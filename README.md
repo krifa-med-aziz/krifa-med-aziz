@@ -18,10 +18,11 @@
 </div>
 
 ###
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNteXdlMWk4aHpqbTJ5dHlpZ2Iyc2Z1dWh6NXZmc2hseXBwY2ozOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 <p align="left">A<strong> WEB DEVELOPMENT</strong> <em>Passionate</em> 🚀</p>
 
 ###
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNteXdlMWk4aHpqbTJ5dHlpZ2Iyc2Z1dWh6NXZmc2hseXBwY2ozOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
 <p><strong>About me!</strong></p>
 
 
