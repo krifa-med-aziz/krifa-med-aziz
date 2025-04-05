@@ -52,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=c"  height="25" />
   <img src="https://skillicons.dev/icons?i=cpp"  height="25" />
   <img src="https://skillicons.dev/icons?i=git"  height="25" />
+  <img src="https://skillicons.dev/icons?i=java"  height="25" />
 </div>
 
 ###
