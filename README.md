@@ -31,7 +31,7 @@
 ###
 <ul>
   <li>👨🏽‍💻 I’m currently a Software Engineering student at ISSATSo.</li>
-  <li>🌱 I’m currently experimenting with JavaScript while diving into React.js and Component-Based Architecture.</li>
+  <li>🌱 I’m currently building projects with React.js and deepening my understanding of component-based architecture. Next, I’ll be diving into Next.js to explore server-side rendering and full-stack development.</li>
   <li>🤔 My interest lies in fullStack development.</li>
   <li>📫 Email me at <a href="mailto:krifaaziz10@gmail.com" >krifaaziz10@gmail.com</a></li>
 </ul>
