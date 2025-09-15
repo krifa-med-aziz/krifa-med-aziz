@@ -30,9 +30,9 @@
 
 ###
 <ul>
-  <li>👨🏽‍💻 I’m currently a Software Engineering student at ISSATSo.</li>
-  <li>🌱 I’m currently building projects with React.js and deepening my understanding of component-based architecture. Next, I’ll be diving into Next.js to explore server-side rendering and full-stack development.</li>
+  <li>👨🏽‍💻 I’m currently a Software Engineering student at Higher Institute of Applied Sciences and Technology.</li>
   <li>🤔 My interest lies in fullStack development.</li>
+  <li>💬 Ask me about anything, I love to answer!</li>
   <li>📫 Email me at <a href="mailto:krifaaziz10@gmail.com" >krifaaziz10@gmail.com</a></li>
 </ul>
 
@@ -48,10 +48,11 @@
   <img src="https://skillicons.dev/icons?i=typescript"  height="25" />
   <img src="https://skillicons.dev/icons?i=react"  height="25" />
   <img src="https://skillicons.dev/icons?i=nextjs"  height="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs"  height="25" />
   <img src="https://skillicons.dev/icons?i=bootstrap"  height="25" />
+  <img src="https://skillicons.dev/icons?i=git"  height="25" />
   <img src="https://skillicons.dev/icons?i=c"  height="25" />
   <img src="https://skillicons.dev/icons?i=cpp"  height="25" />
-  <img src="https://skillicons.dev/icons?i=git"  height="25" />
   <img src="https://skillicons.dev/icons?i=java"  height="25" />
 </div>
 
