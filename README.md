@@ -1,59 +1,71 @@
-<h2 align="left">Hey 👋, I'm Mohamed Aziz!</h2>
+<h1 align="center">Hi , I'm Krifa Mohamed Aziz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-###
+## :sassy_man:  About me
+- :school: I am currently pursuing a Software Engineering degree at the Higher Institute of Applied Science and Technology of Sousse.
+- :technologist: I love using Software as a solution for every Problem.
+- :thinking: I’m currently open for: `A freelance project` or a new `part-time job opportunity`.
+- :nerd_face: Always `learning new things.`
+  
+<br>
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/krifa-aziz-87bb02295/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/linkedin.svg" width="37" height="25"   />
-  </a>
-    <a href="https://www.facebook.com/profile.php?id=100009200701106" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/facebook.svg" width="37" height="25"   />
-  </a>
-    <a href="https://www.instagram.com/med_aziz_krifa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/instagram.svg" width="37" height="25"   />
-  </a>
-    <a href="https://x.com/krifaaziz10" target="_blank">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/twitter.svg" width="37" height="25"   />
-  </a>
-</div>
-
-###
-<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNteXdlMWk4aHpqbTJ5dHlpZ2Iyc2Z1dWh6NXZmc2hseXBwY2ozOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-<p align="left">A<strong> WEB DEVELOPMENT</strong> <em>Passionate</em> 🚀</p>
-
-###
-
-<p><strong>About me!</strong></p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:krifaaziz10@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/krifa-med-aziz" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="www.linkedin.com/in/mohamed-aziz-krifa-87bb02295" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 
 
+## 🛠️ My Skills
 
-###
-<ul>
-  <li>👨🏽‍💻 I’m currently a Software Engineering student at Higher Institute of Applied Sciences and Technology.</li>
-  <li>🤔 My interest lies in fullStack development.</li>
-  <li>💬 Ask me about anything, I love to answer!</li>
-  <li>📫 Email me at <a href="mailto:krifaaziz10@gmail.com" >krifaaziz10@gmail.com</a></li>
-</ul>
+<p align="center">
+    <strong>I mainly :heartpulse: these :point_down:</strong>
+    </br>
+    </br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,docker,vscode,git,github,githubactions"/>
+    <p align="center">
+    <strong>But I use these aswell :point_down:</strong>
+    </br>
+    </br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,ts,js,bash,css,html,java,mysql,sqlite,azure,c,cpp,md,nodejs,express,tailwind,bootstrap,vite,postman,linux,discord"/>
+    </a>
+    </p>
+</p>
+
+<br/>
+
+## 📊 Github Stats
 
 
-###
 
-<p><strong>Languages and Tools:</strong></p>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krifa-med-aziz&theme=algolia" />
+    </a>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krifa-med-aziz&theme=algolia" alt="krifa-med-aziz" height="192px"/>
+ 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krifa-med-aziz&theme=algolia" />
+  </p>
+  
+----
 
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <p align="center">
+     <a href="https://github.com/krifa-med-aziz" target="_blank">
+         <img alt="Krifa Med Aziz's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krifa-med-aziz&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" />
+     </a>
+  </p>
+  <br/>
 
+![Snake GIF](https://github.com/Younes-ch/Younes-ch/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js"  height="25" />
-  <img src="https://skillicons.dev/icons?i=typescript"  height="25" />
-  <img src="https://skillicons.dev/icons?i=react"  height="25" />
-  <img src="https://skillicons.dev/icons?i=nextjs"  height="25" />
-  <img src="https://skillicons.dev/icons?i=nodejs"  height="25" />
-  <img src="https://skillicons.dev/icons?i=bootstrap"  height="25" />
-  <img src="https://skillicons.dev/icons?i=git"  height="25" />
-  <img src="https://skillicons.dev/icons?i=c"  height="25" />
-  <img src="https://skillicons.dev/icons?i=cpp"  height="25" />
-  <img src="https://skillicons.dev/icons?i=java"  height="25" />
-</div>
+<br/>
 
-###
+-----
+
+Last Edited on: 27/12/2025
