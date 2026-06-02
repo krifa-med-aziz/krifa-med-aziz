@@ -12,7 +12,7 @@
 <p align="center">
 	<a href="mailto:krifaaziz10@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/krifa-med-aziz" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/mohamed-aziz-krifa-87bb02295" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://linkedin.com/in/mohamed-aziz-krifa" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -23,13 +23,13 @@
     <strong>I mainly :heartpulse: these :point_down:</strong>
     </br>
     </br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,docker,vscode,git,github,githubactions"/>
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,postgres,mongodb,docker,git,linux"/>
     <p align="center">
     <strong>But I use these aswell :point_down:</strong>
     </br>
     </br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,ts,js,bash,css,html,java,mysql,sqlite,azure,c,cpp,md,nodejs,express,tailwind,bootstrap,vite,postman,linux,discord"/>
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql,py,js,java,c,cpp,tailwind,bootstrap,vite,postman,github,githubactions,vscode,bash"/>
     </a>
     </p>
 </p>
@@ -68,4 +68,4 @@
 
 -----
 
-Last Edited on: 27/12/2025
+Last Edited on: 02/06/2026
