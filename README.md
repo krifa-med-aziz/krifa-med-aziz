@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Krifa Mohamed Aziz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Mohamed Aziz Krifa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## :sassy_man: About me
 
@@ -24,13 +24,13 @@
     <strong>I mainly :heartpulse: these :point_down:</strong>
     </br>
     </br>
-    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,postgres,mongodb,docker,git,linux"/>
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,postgres,mongodb,docker,git,github,linux"/>
     <p align="center">
     <strong>But I use these aswell :point_down:</strong>
     </br>
     </br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=sqlite,mysql,py,js,java,c,cpp,tailwind,bootstrap,vite,postman,github,githubactions,vscode,bash,angular,fastapi,prisma,redis,supabase,expo,figma,postman"/>
+        <img src="https://skillicons.dev/icons?i=sqlite,mysql,py,js,java,c,cpp,html,css,tailwind,bootstrap,vite,postman,githubactions,vscode,bash,angular,fastapi,prisma,redis,supabase,figma,postman,discord"/>
     </a>
     </p>
 </p>
